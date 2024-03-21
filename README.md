@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# ISW-712 Front-End Consumiendo API
 
 ## Descripción
 Este proyecto es un cliente web desarrollado en React que consume una API para implementar funcionalidades de autenticación de usuarios (login y registro). Además, incluye una página principal después del inicio de sesión.
@@ -25,13 +25,13 @@ Asegúrate de tener instalado Node.js en tu sistema antes de ejecutar el proyect
 ## Instalación
 1. Clona el repositorio en tu máquina local.
 2. Abre una terminal en la carpeta del proyecto.
-3. Ejecuta el siguiente comando para instalar las dependencias del cliente:
+3. Ejecuta el siguiente comando para instalar las dependencias del cliente: npm install
 
 ## Configuración
 Antes de ejecutar el proyecto, asegúrate de configurar la URL de la API en los archivos que lo requieran.
 
 ## Ejecución
-Una vez que hayas realizado la instalación y configuración necesaria, puedes ejecutar el proyecto utilizando el siguiente comando:
+Una vez que hayas realizado la instalación y configuración necesaria, puedes ejecutar el proyecto utilizando el siguiente comando: npm start
 
 
 Esto iniciará el servidor de desarrollo y abrirá automáticamente el cliente en tu navegador predeterminado.
