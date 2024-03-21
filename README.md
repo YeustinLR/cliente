@@ -1,4 +1,4 @@
-# ISW-712 Front-End Consumiendo API
+# ISW-711 Front-End Consumiendo API
 
 ## Descripción
 Este proyecto es un cliente web desarrollado en React que consume una API para implementar funcionalidades de autenticación de usuarios (login y registro). Además, incluye una página principal después del inicio de sesión.
